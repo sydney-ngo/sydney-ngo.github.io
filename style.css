@@ -43,10 +43,24 @@ h2 {
   margin: 24px 0 12px;
 }
 
+.Projects {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 2%;
+}
+
 .profile-picture {
   width: 200px;
   height: 250px;
   object-fit: cover;
   margin-right: 10%;
   margin-top: 100px;
+}
+
+.project-image {
+  display: block;
+  max-width: 100%;
+  width: 600px;
+  height: auto;
+  margin-top: 12px;
 }
