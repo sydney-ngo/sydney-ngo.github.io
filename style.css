@@ -12,13 +12,14 @@
 
 .profile {
   display: flex;
-  align-items: center;
-  gap: 20px;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 
 .profile-picture {
-  width: 130px;
-  height: 130px;
+  width: 200px;
+  height: 250px;
   object-fit: cover;
-  border-radius: 50%;
+  margin-right: 10%;
+  margin-top: 100px;
 }
