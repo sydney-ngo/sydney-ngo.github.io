@@ -1,0 +1,11 @@
+.details {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+}
+
+.details a {
+  color: #222;
+  text-decoration: underline;
+}
